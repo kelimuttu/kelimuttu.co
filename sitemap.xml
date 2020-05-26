@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/now/index.html</loc>
+    
+    <lastmod>2020-05-26T12:26:55.434Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/about/index.html</loc>
+    
+    <lastmod>2020-05-26T12:24:15.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/books/index.html</loc>
+    
+    <lastmod>2020-05-26T11:34:31.253Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/reading-list/index.html</loc>
     
-    <lastmod>2020-05-19T05:02:42.909Z</lastmod>
+    <lastmod>2020-05-26T11:28:34.637Z</lastmod>
     
   </url>
   
@@ -47,13 +68,6 @@
     <loc>http://kelimuttu.co/bare-minimum/</loc>
     
     <lastmod>2020-04-04T13:33:13.466Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/about/index.html</loc>
-    
-    <lastmod>2020-01-05T07:13:01.877Z</lastmod>
     
   </url>
   
@@ -285,13 +299,6 @@
     <loc>http://kelimuttu.co/newsletter/index.html</loc>
     
     <lastmod>2019-01-03T16:19:34.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/books/index.html</loc>
-    
-    <lastmod>2019-01-03T16:10:26.000Z</lastmod>
     
   </url>
   
