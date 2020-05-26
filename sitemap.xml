@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kelimuttu.co/now/index.html</loc>
+    <loc>http://kelimuttu.co/books/index.html</loc>
     
-    <lastmod>2020-05-26T12:26:55.434Z</lastmod>
+    <lastmod>2020-05-26T14:30:13.950Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/2019-experiments/index.html</loc>
+    
+    <lastmod>2020-05-26T14:29:12.757Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://kelimuttu.co/about/index.html</loc>
     
-    <lastmod>2020-05-26T12:24:15.000Z</lastmod>
+    <lastmod>2020-05-26T14:28:44.465Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/books/index.html</loc>
+    <loc>http://kelimuttu.co/now/index.html</loc>
     
-    <lastmod>2020-05-26T11:34:31.253Z</lastmod>
+    <lastmod>2020-05-26T12:26:55.434Z</lastmod>
     
   </url>
   
@@ -243,13 +250,6 @@
     <loc>http://kelimuttu.co/gradual-change/</loc>
     
     <lastmod>2019-04-10T17:35:53.651Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/2019-experiments/index.html</loc>
-    
-    <lastmod>2019-02-06T04:09:01.932Z</lastmod>
     
   </url>
   
