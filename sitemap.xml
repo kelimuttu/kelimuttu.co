@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/reading-list/index.html</loc>
+    
+    <lastmod>2020-05-29T05:44:25.955Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/now/index.html</loc>
+    
+    <lastmod>2020-05-29T05:43:57.792Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/books/index.html</loc>
     
     <lastmod>2020-05-26T14:30:13.950Z</lastmod>
@@ -19,20 +33,6 @@
     <loc>http://kelimuttu.co/about/index.html</loc>
     
     <lastmod>2020-05-26T14:28:44.465Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/now/index.html</loc>
-    
-    <lastmod>2020-05-26T12:26:55.434Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/reading-list/index.html</loc>
-    
-    <lastmod>2020-05-26T11:28:34.637Z</lastmod>
     
   </url>
   
