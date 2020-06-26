@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/now/index.html</loc>
+    
+    <lastmod>2020-06-26T15:45:58.330Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/hey/</loc>
     
     <lastmod>2020-06-26T14:43:08.325Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://kelimuttu.co/this-too-shall-pass/</loc>
     
     <lastmod>2020-06-21T14:08:47.486Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/now/index.html</loc>
-    
-    <lastmod>2020-05-29T05:43:57.792Z</lastmod>
     
   </url>
   
