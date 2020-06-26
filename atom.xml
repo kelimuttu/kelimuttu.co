@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kelimuttu.co/"/>
-  <updated>2020-06-21T14:08:47.486Z</updated>
+  <updated>2020-06-26T12:35:24.201Z</updated>
   <id>http://kelimuttu.co/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mengatur inbox gmail dengan cara HEY</title>
+    <link href="http://kelimuttu.co/hey/"/>
+    <id>http://kelimuttu.co/hey/</id>
+    <published>2020-06-26T09:17:00.000Z</published>
+    <updated>2020-06-26T12:35:24.201Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/pasted-17.png" alt="upload successful"></p><p>Akhir-akhir ini, lini masa saya dipenuhi oleh orang-orang yang bercuit tentang <em>email service</em> baru yang sedang hits, <a href="https://hey.com/" target="_blank" rel="noopener">Hey</a>. Jujur, sebagai orang yang peduli dengan <em>email hygiene</em>, saya pun jadi lumayan tertarik untuk melihat apa sih bedanya Hey dengan <em>email service</em> biasa. </p><p>Akhirnya, saya menyempatkan diri untuk melihat <a href="https://www.youtube.com/watch?v=UCeYTysLyGI" target="_blank" rel="noopener">video</a> perkenalan produk sepanjang 37 menit yang disampaikan oleh CEO Basecamp, Jason Fried. Kurang lebih, berikut inilah hal-hal yang ditawarkan oleh Hey: </p><ul><li><strong>The Screener</strong>: Ini ibaratnya seperti fitur <em>waiting room</em> di Zoom. Jadi, di sini kita bisa menyeleksi percakapan sebelum kita mengizinkan mereka untuk masuk ke imbox (bukan typo, mereka memang sengaja menyebut imbox sebagai representasi dari important box). Di sini kita juga bisa memblokir alamat email yang tidak kita inginkan. </li><li><strong>Unread emails</strong>: Hey memisahkan antara email yang sudah dan belum dibaca secara otomatis. Jadi kita nggak perlu <em>ngubek-ngubek</em> kotak masuk lagi untuk mencari <em>email </em>yang belum dibaca. </li><li><strong>Reply Later</strong>: Ini adalah semacam kategori yang mana memungkinkan kita mengumpulkan percakapan yang ingin kita balas di kemudian hari. </li><li><strong>Set Aside</strong>: Ini juga kategori lain untuk mengumpulkan percakapan yang mungkin tidak perlu kita balas, tapi isinya penting untuk kita ketahui. </li><li><strong>The Feed</strong>: Lagi-lagi ini semacam kategori untuk mengumpulkan percakapan yang tidak bersifat <em>time sensitive</em> seperti nawala/<em>newsletter</em>.</li><li><strong>Paper trail</strong>: <em>Again</em>. Ini adalah kategori untuk memudahkan kita mengumpulkan jejak digital seperti tagihan, tanda terima/resi, dll. </li><li><strong>Rename email subject</strong></li><li><strong>Merge threads</strong></li><li><strong>Files center</strong></li><li><strong>Saved clips</strong></li><li><strong>Ignore thread</strong></li><li><strong>Spy tracker mark</strong></li><li><strong>Personal notes + sticky notes</strong></li></ul><p>Beberapa fitur sengaja tidak saya jabarkan karena tidak terlalu relevan dengan topik tulisan ini. Saran saya sih tonton <a href="https://www.youtube.com/watch?v=UCeYTysLyGI" target="_blank" rel="noopener">videonya</a> saja kalau ingin tahu lebih lanjut. </p><p>Menariknya, dalam video tersebut Jason mengatakan bahwa <em>“You tell Hey where things go”</em>. Jadi ibaratnya, kita masih harus mengatur sendiri kemana surel-surel tersebut harus dikategorikan. Yang kemudian membuat saya berpikir “ya itu mah sama aja kaya <em>email service</em> yang lain.” Meskipun tentu, dengan Hey kita memang dimudahkan untuk melakukannya. Selain itu, bagi saya Hey juga masih memiliki daya tarik tersendiri dari fitur-fitur tambahan lain yang memang tidak ada di <em>email service</em> pada umumnya. </p><p>Nah bagi kalian yang mungkin tertarik dengan fitur pengkategorian dari Hey tapi belum mau membayar 99 USD per tahun, saya punya trik yang kurang lebih memiliki fungsi yang sama. Trik ini pun sudah saya terapkan di email kantor dari sekitar setahun yang lalu dan sejauh ini membantu saya mengatur <em>inbox</em> jadi lebih rapi.</p><p><img src="/images/pasted-10.png" alt="upload successful"></p><p>Perlu dicatat bahwa trik ini saya pelajari pertama kali dari <a href="https://klinger.io/post/71640845938/dont-drown-in-email-how-to-use-gmail-more" target="_blank" rel="noopener">blognya Andreas Klinger</a> yang ia tulis dari tahun 2013 jadi beberapa pengaturan memang sudah agak berbeda dibandingkan sekarang. Salah satu rekan saya yang saya beri tahu trik ini pun sempat <a href="https://bacharakis.com/2020/04/08/zero-inbox/" target="_blank" rel="noopener">menulis</a> tentang hal yang kurang lebih sama. </p><p>Kali ini, saya mencoba mereplikasi trik tersebut pada akun surel/<em>email</em> pribadi saya yang menggunakan <em>email service</em> sejuta umat, gmail. Jika kalian menggunakan gmail dengan pengaturan baku/<em>default</em>, tampilan inbox kalian mungkin akan terlihat seperti ini: </p><p><img src="/images/pasted-11.png" alt="upload successful"></p><p>Berikut langkah-langkah yang perlu diikuti untuk mengatur akun gmail kalian dengan cara Hey: </p><h2 id="Mengatur-multiple-inboxes"><a href="#Mengatur-multiple-inboxes" class="headerlink" title="Mengatur multiple inboxes:"></a>Mengatur multiple inboxes:</h2><p>Langkah pertama: </p><ul><li>Klik ikon Settings yang ada di pojok kanan atas dari laman inbox kalian.</li><li>Sebuah panel akan muncul di sebelah kanan halaman. Pada bagian Inbox Type, pilih Multiple inboxes, lalu klik Customize.<br><img src="/images/pasted-12.png" alt="upload successful"></li><li>Kalian akan diarahkan ke Settings &gt; Inbox. Pada bagian Multiple Inbox Sections, atur kategori kalian menjadi seperti berikut: <ul><li>has:red-bang -&gt; Reply Later</li><li>has:yellow-bang -&gt;  Set Aside</li><li>label:The-Feed -&gt; The Feed</li><li>label:Paper-Trail -&gt; Paper Trail</li></ul></li><li>Klik Save Changes ketika selesai.</li></ul><p>Langkah kedua: </p><ul><li>Dari menu Settings tadi, pilih tab General<br><img src="/images/pasted-13.png" alt="upload successful"></li><li>Pagi bagian Stars, seret ikon yang ingin kalian pakai (dalam hal ini saya menggunakan tanda seru yang merah dan kuning*) ke bagian In Use, lalu klik Save Changes. </li></ul><p>Sebenarnya, kalian bisa memilih ikon apa saja yang ingin kalian pakai. Hanya saja, pastikan sesuai dengan apa yang kalian atur sebelumnya di bagian Multiple Inboxes. </p><p>Jika berhasil, inbox kalian akan jadi seperti ini.<br><img src="/images/pasted-14.png" alt="upload successful"></p><p>Setelah berhasil membuat kategori, sekarang kita bisa mulai mengatur filtering sehingga di masa depan semuanya bisa terotomatisasi. Tolong dicatat, bahwa ini akan memakan banyak waktu, terutama jika kalian berlangganan banyak layanan/<em>services</em> maupun nawala/<em>newsletter</em>.</p><h2 id="Mengatur-filtering"><a href="#Mengatur-filtering" class="headerlink" title="Mengatur filtering:"></a>Mengatur <em>filtering</em>:</h2><p><img src="/images/pasted-15.png" alt="upload successful"></p><p>Mengatur percakapan yang akan dimasukan ke The Feed/Paper Trail: </p><ul><li>Klik tanda centang pada tiap percakapan yang ingin kalian masukan ke kategori The Feed. </li><li>Klik tanda titik tiga -&gt; Filter messages like these -&gt; Create filter</li><li>Klik centang pada Skip the Inbox (Archieve it), Apply the label (buat label “The Feed”) dan pilih label tersebut, terakhir centang bagian Also apply filter to matching conversations juga lalu klik Create Filter. </li><li>Lakukan hal yang sama untuk mengatur filtering untuk kategori Paper Trail</li></ul><p>Proses <em>filtering</em> ini bisa memakan banyak waktu. Saran saya, pilih percakapan yang memang penting atau nawala yang biasa kalian ikuti saja, lalu lainnya bisa dicicil sambil jalan. </p><p>Untuk memasukan percakapan ke kategori Reply Later atau Set Aside, kalian hanya perlu mengetuk ikon bintang sampai ikonnya sesuai dengan yang kalian atur tadi. </p><p>Berikutnya sekaligus langkah terakhir adalah membersihkan <em>inbox</em>. </p><p><img src="/images/pasted-16.png" alt="upload successful"></p><h2 id="Mencapai-inbox-zero"><a href="#Mencapai-inbox-zero" class="headerlink" title="Mencapai inbox zero:"></a>Mencapai <em>inbox zero</em>:</h2><ul><li>Centang semua percakapan</li><li>Pilih archieve</li><li>Klik OK pada kotak konfirmasi bulk action</li><li>Lakukan hal yang sama pada kategori/label percakapan yang lain. </li></ul><p><img src="/images/pasted-9.png" alt="upload successful"></p><p>Hasilnya, inbox kalian akan bersih dan tertata rapi. Jika menggunakan analogi Hey, inbox di sebelah kiri akan berfungsi sebagai  area The Screener dan menampung surel/email yang belum dibaca. Sedangkan di sebelah kanan menampung kategori Reply Later, Set Aside, The Feed, dan Paper Trail.</p><p>Selamat mencoba! </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/pasted-17.png&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Akhir-akhir ini, lini masa saya dipenuhi oleh orang-orang yang bercuit t
+      
+    
+    </summary>
+    
+      <category term="Tips and Trick" scheme="http://kelimuttu.co/categories/Tips-and-Trick/"/>
+    
+    
+      <category term="Bahasa Indonesia" scheme="http://kelimuttu.co/tags/Bahasa-Indonesia/"/>
+    
+  </entry>
   
   <entry>
     <title>This too shall pass</title>
@@ -477,31 +503,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>[music] Bizzare Love Triangle - Frente (cover)</title>
-    <link href="http://kelimuttu.co/bizzare-love-triangle/"/>
-    <id>http://kelimuttu.co/bizzare-love-triangle/</id>
-    <published>2019-04-03T12:37:00.000Z</published>
-    <updated>2019-07-11T06:24:18.889Z</updated>
-    
-    <content type="html"><![CDATA[<div class="container"><br>  <iframe src="https://www.youtube.com/embed/NsxGHKeI8DQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe><br></div><p>Heyya!</p><p>Been awhile since I make a music cover, which initially was  part of an experiment that I did last year. Today is kind of a  lazy day and I decided to make another one. </p><p>While researching for this post, I just found out that the song was originally released in 1986 by an English rock band, <a href="https://www.youtube.com/watch?v=7uEBuqkkQRk" target="_blank" rel="noopener">New Order</a>. Listening to the original version left me with a bizarre feeling. But I kinda like the dance vibe that comes with it.</p><p>However, instead of the original one, the one that I made a cover was from the Australian band version, <a href="https://www.youtube.com/watch?v=IJ1c9ErCn7w" target="_blank" rel="noopener">Frente</a>. In which I think is more familiar between folks from my generation (yes?).</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div class=&quot;container&quot;&gt;&lt;br&gt;  &lt;iframe src=&quot;https://www.youtube.com/embed/NsxGHKeI8DQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypt
-      
-    
-    </summary>
-    
-      <category term="Music" scheme="http://kelimuttu.co/categories/Music/"/>
-    
-    
-      <category term="English" scheme="http://kelimuttu.co/tags/English/"/>
     
   </entry>
   
