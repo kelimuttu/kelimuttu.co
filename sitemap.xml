@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/reading-list/index.html</loc>
+    
+    <lastmod>2020-07-11T14:40:01.066Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/list/index.html</loc>
+    
+    <lastmod>2020-07-11T14:34:01.573Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/now/index.html</loc>
     
     <lastmod>2020-06-26T15:45:58.330Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://kelimuttu.co/hey/</loc>
     
     <lastmod>2020-06-26T14:43:08.325Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/reading-list/index.html</loc>
-    
-    <lastmod>2020-06-21T14:09:47.672Z</lastmod>
     
   </url>
   
@@ -1993,13 +2000,6 @@
     <loc>http://kelimuttu.co/where/index.html</loc>
     
     <lastmod>2019-01-01T08:55:27.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/list/index.html</loc>
-    
-    <lastmod>2018-09-03T16:02:53.000Z</lastmod>
     
   </url>
   
