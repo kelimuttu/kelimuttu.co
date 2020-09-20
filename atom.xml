@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kelimuttu.co/"/>
-  <updated>2020-08-23T00:01:28.805Z</updated>
+  <updated>2020-09-20T12:25:39.091Z</updated>
   <id>http://kelimuttu.co/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[music] Avril Lavigne - Nobody&#39;s Home</title>
+    <link href="http://kelimuttu.co/nobody-s-home/"/>
+    <id>http://kelimuttu.co/nobody-s-home/</id>
+    <published>2020-09-20T12:12:00.000Z</published>
+    <updated>2020-09-20T12:25:39.091Z</updated>
+    
+    <content type="html"><![CDATA[<div class="container"><br>  <iframe src="https://www.youtube.com/embed/Xwrd1DIqXjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe><br></div><p>So, I finally reunite with my  guitar after a few months we’ve been apart. I decided to cover this old song that I’ve been listenig to lately. </p><p>Listening to Avril, I feel like being thrown back in time when I was younger and care about very few things. Pandemic got me to retreat back to my childhood music so that’s why I’ve been listening to Avril again these days.</p><p>Anyway, it’s the very first time I show my face while doing music cover. You see, there’s a reason why I didn’t do that earlier, and that’s because it’s difficult for me to divide my focus from paying attention to the chords on the screen, all the while maintaining my guitar keys, trying to recall the lyric and staring at the camera. I’ve never been good at multi-tasking.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;container&quot;&gt;&lt;br&gt;  &lt;iframe src=&quot;https://www.youtube.com/embed/Xwrd1DIqXjY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypt
+      
+    
+    </summary>
+    
+      <category term="Music" scheme="http://kelimuttu.co/categories/Music/"/>
+    
+    
+      <category term="English" scheme="http://kelimuttu.co/tags/English/"/>
+    
+  </entry>
   
   <entry>
     <title>[Review] How to Do Nothing: Resisting the Attention Economy </title>
@@ -485,28 +510,6 @@
     
     
       <category term="English" scheme="http://kelimuttu.co/tags/English/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Kartini Teknologi</title>
-    <link href="http://kelimuttu.co/kartini-teknologi/"/>
-    <id>http://kelimuttu.co/kartini-teknologi/</id>
-    <published>2019-04-20T23:52:24.000Z</published>
-    <updated>2019-04-21T06:01:33.476Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/pasted-0.png" alt="upload successful"></p><p>As a child, I never really thought that women and men are different. I thought we get the same education, play together, and have similar interest, so I don’t really understand why we’re different.</p><p>But growing up, I got to understand why people said that we’re different. The way we are raised and even our hormones are affecting us in a different way. Society has also established long enough to dictate that women have a certain role that we need to fulfill. </p><p>And among those differences, I think confidence is the biggest thing that set us apart. Recently, I just read an article from The Atlantic called <a href="https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815" target="_blank" rel="noopener">The Confidence Gap</a> which highlights that confidence crisis among women is the biggest culprit of our setbacks.</p><blockquote><p>Underqualified and unprepared men don’t think twice about leaning in. Overqualified and overprepared, too many women still hold back. Women feel confident only when they are perfect.</p></blockquote><p>From young age, women are told to behave so we got used to crave for approval for being a “good girl”. And as a result, we learn to avoid taking risks and making mistakes, which are crucial exercise to gain confidence. </p><p>And yet, even when women have done a lot in her life, we still face people who think that women are not supposed to be doing that and accomplished much. We are told that it’s against our nature. Of course, we don’t have to mind those people but I just want to highlight that this is the reality that women have to face every day.</p><p>We know that our biology, upbringing, society, are at stake on making women different. But I would also say that it may be not a bad thing. With those differences, we learn to cultivate different perspective on problem-solving. </p><p>Coming from that thinking, I believe that as women, we will be able to bring contribution in a different way. And also with our unique perspective, I believe we can uncover blind spots that could shape the product or the technology to be better. </p><p>That is exactly why me and a good friend started a podcast called <a href="http://kartiniteknologi.id/" target="_blank" rel="noopener">Kartini Teknologi</a>. I believe we will get more benefits by having more diverse people from different background. We particularly want to encourage more women to get into tech because we believe that the industry needs more of us. </p><p>Today, we just launched the <a href="https://kartiniteknologi.id/episodes/1/" target="_blank" rel="noopener">first episode</a> featuring <a href="https://twitter.com/sailorhg" target="_blank" rel="noopener">Amy Wibowo</a> (founder and editor of <a href="https://shop.bubblesort.io/" target="_blank" rel="noopener">Bubblesort Zines</a>). Amy shares her thoughts on computer science education, how she builds her business, the wearable Clipper Card ring that she created, also how she can accomplish all those while staying true to herself.</p><p>But of course, we know that talk is just well, talk. To create real impact, we have to take action. And just as Richard Petty, a psychology professor at Ohio State University said that “confidence is the stuff that turns thoughts into action”, we hope this podcast will stimulate action to our listener. Because as The Atlantic article said: </p><blockquote><p>When women don’t act, when we hesitate because we aren’t sure, we hold ourselves back. But when we do act, even if it’s because we’re forced to, we perform just as well as men do.</p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;/images/pasted-0.png&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
-&lt;p&gt;As a child, I never really thought that women and men are different. I th
-      
-    
-    </summary>
-    
     
   </entry>
   
