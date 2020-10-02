@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kelimuttu.co/"/>
-  <updated>2020-09-20T16:25:22.119Z</updated>
+  <updated>2020-10-02T10:09:06.708Z</updated>
   <id>http://kelimuttu.co/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The case with Hacktoberfest</title>
+    <link href="http://kelimuttu.co/hacktoberfest/"/>
+    <id>http://kelimuttu.co/hacktoberfest/</id>
+    <published>2020-10-02T06:29:00.000Z</published>
+    <updated>2020-10-02T10:09:06.708Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/pasted-18.png" alt=""></p><p>Every year, the transition from September to October seems to trigger many people in my circle to talk about these 2 things:  </p><ul><li>Waking up Billie Joe Armstrong</li><li>Talking about Hacktoberfest</li></ul><p>Putting aside the fact that Wake me up when September ends was actually inspired by a mournful event from Billie Joe’s life, the hacktoberfest, though, should be a moment of celebration for the open source community. Although things seems to go wrong now. </p><p>For those of you who don’t know, <a href="https://hacktoberfest.digitalocean.com/" target="_blank" rel="noopener">Hacktoberfest</a> is an annual event, organized by Digital Ocean to encourage people to contribute to open source projects by submitting Pull Requests to any public repositories in Github. And as a reward, the first 70000 participants will be able to get a t-shirt from Digital Ocean.</p><h1 id="How-things-go-wrong"><a href="#How-things-go-wrong" class="headerlink" title="How things go wrong"></a>How things go wrong</h1><p>It didn’t take long for the open source maintainers to start complaining about the surge of low quality Pull Requests associated with Hacktoberfest. They braced themselves even <a href="https://twitter.com/EmilyKager/status/1310983552587104257" target="_blank" rel="noopener">before October begin</a>. </p><p>This is only one of the many tweets that came up in my timeline: </p><blockquote><p>Ugh, oh no, October is starting. Prepare for a month of spam pull requests… whatwg/html has already been hit hard, at 5 in the last 3 hours. @hacktoberfest, please please stop this annual tradition of wasting maintainers’ time. You are a net negative for the world. - <a href="https://twitter.com/domenic/status/1311355857465225218" target="_blank" rel="noopener">@domenic</a></p></blockquote><p>Someone finally <a href="https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama" target="_blank" rel="noopener">discover</a> who started this year’s drama in the first place. It turned out that a Youtuber with 672K followers has demonstrated how easy it is to send Pull Requests to get t-shirt from Hacktoberfest. I don’t want to say that the Youtuber is the only one to blame, but it obviously contribute to the already flawed system we have right now. </p><p>Now, of course, there’s no such a perfect system anywhere in the world. But specifically talking about open source contribution, I think we’re all in agreement that we need more people to contribute to open source projects. However, unlike the common economic institution that mainly driven my monetary incentives, the bargain in the open source world is more complex than you can imagine.</p><p>This whole situation reminded me of a <a href="https://www.youtube.com/watch?v=MaPhZ-CfYMU" target="_blank" rel="noopener">great talk from Jana Gallus, who is an assistant professor at UCLA</a> about motivation and incentives. Jana mentioned in her talk that there are a few challenges when it comes to motivate people to contribute to open source project.</p><p>First, is that we’re limited in budget. And even when we might have the monetary ability to incentivize people to contribute, it’s not easy to describe the task in an already-complex project to new people. And lastly, even when we solve those 2 challenges, we might as well cause the existing contributors to feel motivation crowding out. Which is a situation where contributors might start to lose their interest once we start tying incentives to every piece of task in our project. </p><p>In Hactoberfest case, I feel like we’re end up in a similar situation that Jana mentioned in her talk: </p><blockquote><p>“You end up in a world of muddy-tasking where people just focus on whatever is being incentivized. So effectively, you get what you paid for, just don’t really pay for what you really need.”</p></blockquote><h1 id="My-own-story"><a href="#My-own-story" class="headerlink" title="My own story"></a>My own story</h1><p>As a community manager for an online community, I’ve been on a similar situation in the past where suddenly our support forum is flooded with many replies from new contributors who share false information/spammy-like replies.</p><p>It didn’t take long for me to noticed from their profiles that they came from the same university. As it turn out, a university lecturer who is already part of our community suggest his students to join and contribute to our online community. Being very young with limited knowledge of the product, those innocent students just trying to follow their professor’s advise and put wathever they found on the internet and copy paste it to our forum as a reply.</p><p>I quickly realize that they actually have good intention. They just don’t know the right approach. So I gather those new contributors in an online call to train them how to contribute in the rigth way. Some are still contributing until now. Although most of them of course, have mostly gone. </p><h1 id="What-to-do-now"><a href="#What-to-do-now" class="headerlink" title="What to do now?"></a>What to do now?</h1><p>Here’s what I would suggest for those of you who want to participate in Hacktoberfest: </p><h2 id="As-an-event-organizer"><a href="#As-an-event-organizer" class="headerlink" title="As an event organizer"></a>As an event organizer</h2><p>As an organizer, you’re responsible to guide your participants on the right track. Define your goal for organizing an event. Is it to help your participants understand the git system or you want to get more contributors on your own open source project? Determining your goal will also help you to define expectation of your audience. You might want to aim for mediocre-level participants if your goal is to improve your open source project. Or you can welcome everyone from any level if your goal is to teach them the git system.</p><p>You can also come up with a list of repositories that welcome Hacktoberfest contributors instead of letting your participants hunting on their own. Not all open source maintainers are fond of this activity so make sure you funnel your participants to the right track. </p><h2 id="As-a-participant"><a href="#As-a-participant" class="headerlink" title="As a participant"></a>As a participant</h2><p>Try to be more mindful and ask yourself what do you want to get out of this contribution? Do you only want to get t-shirt or do you want to get involved in the open source world? </p><p>I completly understand that t-shirt is an important form of recognition for any kind of community/activism. Almost everyone loves freebies. Especially when that freebies represent that they’ve done something cool.</p><p>I’m not saying that it’s not right to participante to Hacktoberfest only for the t-shirt. Your intention is not mine to control. </p><p>However, I do want to remind everyone that more than the tangible reward like the t-shirt, you’ll get more benefits from being an ally in the open source community.</p><p>In our <a href="https://kartiniteknologi.id/episodes/18/" target="_blank" rel="noopener">previous episode of Kartini Teknologi</a>, our guest talked about how valuable her experience was when she participated in the Outreachy program. She told us that she got her first code-review and learn alot about code practices when she contributed to an open source project as part of the requirements on the Outreachy program. </p><p>Or, you might get a more rewarding feeling like <a href="https://twitter.com/xynx/status/1304722603244830722" target="_blank" rel="noopener">this person</a> who managed to sneak in some Indomie phrases in a well-known open source project documentation. </p><p>You see, contributing to open source can be a source of valuable experience and can open up a lot of opportunities for you if you’re doing it right. (: </p><h1 id="Outro"><a href="#Outro" class="headerlink" title="Outro"></a>Outro</h1><p>It’s important to remember that activity like Hacktoberfest is aimed for good intention. Let’s strive to do our best to help people who really wanted to start contributing to open source.</p><p>PS!<br>For Indonesian reader, I would suggest to read the following resources on how to start contributing to open source that my podcast co-host, <a href="https://twitter.com/galuhsahid/status/1309846680884240385" target="_blank" rel="noopener">Galuh</a>, has put together. You can check her writing series <a href="https://galuh.me/contributing-os-1/id/" target="_blank" rel="noopener">here</a>, <a href="https://galuh.me/contributing-os-2/id/" target="_blank" rel="noopener">here</a>, and <a href="https://galuh.me/contributing-os-3/id/" target="_blank" rel="noopener">here</a>. </p><p>Photo credit: Hacktoberfest 2019 event in Bali</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/pasted-18.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Every year, the transition from September to October seems to trigger many people in my c
+      
+    
+    </summary>
+    
+      <category term="Jar of thoughts" scheme="http://kelimuttu.co/categories/Jar-of-thoughts/"/>
+    
+    
+      <category term="English" scheme="http://kelimuttu.co/tags/English/"/>
+    
+  </entry>
   
   <entry>
     <title>The concept of &quot;home&quot;</title>
@@ -485,31 +511,6 @@
     
     
       <category term="Bahasa Indonesia" scheme="http://kelimuttu.co/tags/Bahasa-Indonesia/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Gratitude</title>
-    <link href="http://kelimuttu.co/gratitude/"/>
-    <id>http://kelimuttu.co/gratitude/</id>
-    <published>2019-05-26T04:36:00.000Z</published>
-    <updated>2020-05-02T15:44:33.284Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://images.unsplash.com/photo-1429280064633-adb9d2bea577?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;dl=zack-minor-15104-unsplash.jpg" alt=""></p><p><em>If you’re given a time machine to fix your life, can you think of one moment that you would like to go back and get it fixed?</em></p><p>I was mulling over that question for the past week, but I couldn’t find any answers. Even more, lately I was feeling that my life seems so easy compared to the others. And as cocky as it sounds, some of my friends even confirmed that.</p><p>When I hear or see other people’ life issue, most of the time, I can’t help but think how small my own problem is, in comparison to theirs. And the strange thing is that that makes me feel like I was falling behind in life.</p><blockquote><p>Isn’t life supposed to be difficult and complicated? Am I missing something? </p></blockquote><p>Having said that, of course, it doesn’t mean that I don’t have any problem at all. It’s the scope of the problem that terrifies me. Somehow I’m afraid if I can’t handle the situation once I stumbled upon a major life issue in the future because I got used to an easy life.</p><p>When I thought about it, I think there are 2 possibilities that might have caused it. First, maybe I look down on my own problem and dramatized others’. Second, someone implies to me that maybe it’s a sign that I handle issues in my life well enough that it didn’t bug me much. I would love to believe the latter, of course. However, it seems arrogant just to think that way, and I honestly have no confidence to believe it. </p><p>But today, I realize something on a cab that took me to the station. I was thinking, regardless of the precedent, I should’ve earned it. It’s such a shame that I feel guilty to have a good life. Why would I do that? I should’ve focused more on the bright side. I should’ve thankful for having a great family, good friends, and a job that I love. </p><p>And of course, I’m not saying that I have the best life in the world. But I realized, that this life alone is a privilege that not everyone has and I should’ve made the best use of it. I should’ve cherished my loved ones more, and doing work that can benefit the others.</p><p>And I think I’ve been doing it without I realized. The community that I served, my writing, my podcast project, are my attempts to spill the water. Of course, there are many more that I could have done to extend my gratitude. But I’ll leave the floor to you all. Beyond the obvious one like donating, what do you usually do to extend your gratitude? Care to share an idea?</p><p>Photo by <a href="https://unsplash.com/@zackography" target="_blank" rel="noopener">Zack Minor</a> on <a href="https://unsplash.com/" target="_blank" rel="noopener">Unsplash</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1429280064633-adb9d2bea577?ixlib=rb-1.2.1&amp;amp;q=85&amp;amp;fm=jpg&amp;amp;crop=entropy&amp;amp;cs=srgb&amp;am
-      
-    
-    </summary>
-    
-      <category term="Jar of thoughts" scheme="http://kelimuttu.co/categories/Jar-of-thoughts/"/>
-    
-    
-      <category term="English" scheme="http://kelimuttu.co/tags/English/"/>
     
   </entry>
   

@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/hacktoberfest/</loc>
+    
+    <lastmod>2020-10-02T10:09:06.708Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/home/</loc>
     
     <lastmod>2020-09-20T16:25:22.119Z</lastmod>
