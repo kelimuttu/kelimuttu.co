@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/reading-list/index.html</loc>
+    
+    <lastmod>2020-11-24T12:47:14.541Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/bright/</loc>
     
     <lastmod>2020-10-25T16:27:58.279Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://kelimuttu.co/intentional-living/</loc>
     
     <lastmod>2020-10-21T19:54:42.169Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/reading-list/index.html</loc>
-    
-    <lastmod>2020-10-21T19:50:19.317Z</lastmod>
     
   </url>
   
