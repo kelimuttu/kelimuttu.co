@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/reading-list/index.html</loc>
+    
+    <lastmod>2020-12-30T15:55:32.498Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/meaning-of-life/</loc>
+    
+    <lastmod>2020-12-30T15:49:17.805Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/Wisdom-from-early-2017/</loc>
     
     <lastmod>2020-12-14T10:04:10.804Z</lastmod>
@@ -19,13 +33,6 @@
     <loc>http://kelimuttu.co/gratitude/</loc>
     
     <lastmod>2020-12-14T09:39:18.245Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/reading-list/index.html</loc>
-    
-    <lastmod>2020-12-14T09:18:38.749Z</lastmod>
     
   </url>
   
