@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kelimuttu.co/happy-death/</loc>
+    <loc>http://kelimuttu.co/2021/</loc>
     
-    <lastmod>2021-01-02T16:31:18.052Z</lastmod>
+    <lastmod>2021-01-03T12:30:33.378Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://kelimuttu.co/reading-list/index.html</loc>
     
-    <lastmod>2020-12-30T15:55:32.498Z</lastmod>
+    <lastmod>2021-01-02T16:38:59.274Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/happy-death/</loc>
+    
+    <lastmod>2021-01-02T16:31:18.052Z</lastmod>
     
   </url>
   
