@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kelimuttu.co/2021/</loc>
+    <loc>http://kelimuttu.co/reading-list/index.html</loc>
     
-    <lastmod>2021-01-03T15:33:04.986Z</lastmod>
+    <lastmod>2021-01-06T12:53:21.402Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/reading-list/index.html</loc>
+    <loc>http://kelimuttu.co/2021/</loc>
     
-    <lastmod>2021-01-02T16:38:59.274Z</lastmod>
+    <lastmod>2021-01-04T08:48:49.600Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/intentional-living/</loc>
+    
+    <lastmod>2021-01-03T16:04:11.451Z</lastmod>
     
   </url>
   
@@ -47,13 +54,6 @@
     <loc>http://kelimuttu.co/gratitude/</loc>
     
     <lastmod>2020-12-14T09:39:18.245Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/intentional-living/</loc>
-    
-    <lastmod>2020-12-14T09:15:54.326Z</lastmod>
     
   </url>
   
