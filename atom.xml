@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kelimuttu.co/"/>
-  <updated>2021-02-27T16:59:39.253Z</updated>
+  <updated>2021-02-27T17:04:43.659Z</updated>
   <id>http://kelimuttu.co/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>[music] Nostalgia Lagu Indonesia</title>
     <link href="http://kelimuttu.co/nostalgia-lagu-indonesia/"/>
     <id>http://kelimuttu.co/nostalgia-lagu-indonesia/</id>
-    <published>2021-02-27T16:41:55.000Z</published>
-    <updated>2021-02-27T16:59:39.253Z</updated>
+    <published>2021-02-27T16:41:00.000Z</published>
+    <updated>2021-02-27T17:04:43.659Z</updated>
     
     <content type="html"><![CDATA[<p>Gara-gara <a href="https://twitter.com/bravocado/status/1363498100787015684" target="_blank" rel="noopener">karokean di Discord</a> minggu lalu, weekend ini gue jadi terinspirasi buat bikin cover beberapa lagu Indonesia jadul berikut: </p><ol><li>Rama - Bertahan</li></ol><div class="container"><br>  <iframe src="https://www.youtube.com/embed/d0yKP0MgMog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe><br></div><p>Sumpah ini lagu dulu populer banget pas gue masih SMP, kira-kira 5 tahun yang lalu, lah. Padahal kalo didengerin lagi sekarang, liriknya kok ya bodo. lol. Tapi lumayan lah, buat nostalgia. </p><ol start="2"><li>Jikustik - Puisi </li></ol><div class="container"><br>  <iframe src="https://www.youtube.com/embed/1Fsr4veug3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe><br></div><p>Nah, kalo ini liriknya masih lebih waras. Enak juga mainnya, chordnya gampang soalnya, haha. </p>]]></content>
     
@@ -34,6 +34,10 @@
     
     </summary>
     
+      <category term="Music" scheme="http://kelimuttu.co/categories/Music/"/>
+    
+    
+      <category term="Bahasa Indonesia" scheme="http://kelimuttu.co/tags/Bahasa-Indonesia/"/>
     
   </entry>
   
