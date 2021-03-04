@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kelimuttu.co/nostalgia-lagu-indonesia/</loc>
+    <loc>http://kelimuttu.co/reading-list/index.html</loc>
     
-    <lastmod>2021-02-27T17:04:43.659Z</lastmod>
+    <lastmod>2021-03-04T16:20:39.335Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/reading-list/index.html</loc>
+    <loc>http://kelimuttu.co/museums/index.html</loc>
     
-    <lastmod>2021-02-12T02:39:29.131Z</lastmod>
+    <lastmod>2021-03-04T16:19:26.109Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/nostalgia-lagu-indonesia/</loc>
+    
+    <lastmod>2021-02-27T17:04:43.659Z</lastmod>
     
   </url>
   
@@ -236,13 +243,6 @@
     <loc>http://kelimuttu.co/for-now/</loc>
     
     <lastmod>2019-10-06T03:03:26.671Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/museums/index.html</loc>
-    
-    <lastmod>2019-09-15T14:25:07.932Z</lastmod>
     
   </url>
   
