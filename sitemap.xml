@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/rocky-trail/</loc>
+    
+    <lastmod>2021-05-06T19:08:52.403Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/reading-list/index.html</loc>
     
-    <lastmod>2021-03-21T12:00:51.838Z</lastmod>
+    <lastmod>2021-04-18T08:00:12.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/museums/index.html</loc>
+    
+    <lastmod>2021-04-13T16:24:18.119Z</lastmod>
     
   </url>
   
@@ -19,13 +33,6 @@
     <loc>http://kelimuttu.co/too-much-happiness/</loc>
     
     <lastmod>2021-03-21T11:06:55.102Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/museums/index.html</loc>
-    
-    <lastmod>2021-03-04T16:19:26.109Z</lastmod>
     
   </url>
   
