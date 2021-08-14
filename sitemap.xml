@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/extreme-sport/</loc>
+    
+    <lastmod>2021-08-14T20:09:58.663Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/processing/</loc>
     
     <lastmod>2021-08-14T20:05:57.972Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://kelimuttu.co/reading-list/index.html</loc>
     
     <lastmod>2021-08-14T20:04:57.083Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/extreme-sport/</loc>
-    
-    <lastmod>2021-08-14T20:03:27.510Z</lastmod>
     
   </url>
   
