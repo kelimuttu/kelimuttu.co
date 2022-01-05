@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/now/index.html</loc>
+    
+    <lastmod>2022-01-05T16:38:10.200Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/2022/</loc>
+    
+    <lastmod>2022-01-05T16:29:12.749Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/moral-and-other-things/</loc>
     
     <lastmod>2021-11-24T04:39:11.294Z</lastmod>
@@ -75,13 +89,6 @@
     <loc>http://kelimuttu.co/obsession/</loc>
     
     <lastmod>2021-06-06T12:39:49.117Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/now/index.html</loc>
-    
-    <lastmod>2021-05-24T09:44:32.042Z</lastmod>
     
   </url>
   
