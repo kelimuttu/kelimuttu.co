@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/2022/</loc>
+    
+    <lastmod>2023-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/contact/index.html</loc>
     
     <lastmod>2023-03-27</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>http://kelimuttu.co/now/index.html</loc>
-    
-    <lastmod>2023-03-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/2022/</loc>
     
     <lastmod>2023-03-27</lastmod>
     
@@ -2900,14 +2900,14 @@
 
   
   <url>
-    <loc>http://kelimuttu.co/tags/Bahasa-Indonesia/</loc>
+    <loc>http://kelimuttu.co/tags/English/</loc>
     <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/tags/English/</loc>
+    <loc>http://kelimuttu.co/tags/Bahasa-Indonesia/</loc>
     <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2944,14 +2944,14 @@
 
   
   <url>
-    <loc>http://kelimuttu.co/categories/2015/</loc>
+    <loc>http://kelimuttu.co/categories/Year-in-review/</loc>
     <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/categories/Year-in-review/</loc>
+    <loc>http://kelimuttu.co/categories/2015/</loc>
     <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
