@@ -2,9 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelimuttu.co/japan-2024/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/rumpang/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/wake-me-up-when-september-ends/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/bizzare-love-triangle/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/tokyo/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/alaska/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/collide/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/best-part/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/delilah/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/nobody-s-home/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/bright/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/nostalgia-lagu-indonesia/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/hella-mega/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://kelimuttu.co/2022/</loc>
     
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2023-04-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -119,15 +236,6 @@
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/hella-mega/</loc>
-    
-    <lastmod>2021-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kelimuttu.co/reading-list/index.html</loc>
     
     <lastmod>2021-09-01</lastmod>
@@ -236,15 +344,6 @@
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/nostalgia-lagu-indonesia/</loc>
-    
-    <lastmod>2021-02-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kelimuttu.co/review-teh-lokal-1/</loc>
     
     <lastmod>2021-02-12</lastmod>
@@ -317,15 +416,6 @@
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/bright/</loc>
-    
-    <lastmod>2020-10-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kelimuttu.co/hacktoberfest/</loc>
     
     <lastmod>2020-10-02</lastmod>
@@ -336,15 +426,6 @@
   
   <url>
     <loc>http://kelimuttu.co/home/</loc>
-    
-    <lastmod>2020-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/nobody-s-home/</loc>
     
     <lastmod>2020-09-20</lastmod>
     
@@ -443,15 +524,6 @@
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/best-part/</loc>
-    
-    <lastmod>2019-12-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kelimuttu.co/story-about-options/</loc>
     
     <lastmod>2019-12-13</lastmod>
@@ -491,69 +563,6 @@
     <loc>http://kelimuttu.co/kelimutu/</loc>
     
     <lastmod>2019-09-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/wake-me-up-when-september-ends/</loc>
-    
-    <lastmod>2019-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/alaska/</loc>
-    
-    <lastmod>2019-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/bizzare-love-triangle/</loc>
-    
-    <lastmod>2019-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/tokyo/</loc>
-    
-    <lastmod>2019-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/delilah/</loc>
-    
-    <lastmod>2019-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/rumpang/</loc>
-    
-    <lastmod>2019-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/collide/</loc>
-    
-    <lastmod>2019-07-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2893,50 +2902,50 @@
 
   <url>
     <loc>http://kelimuttu.co/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://kelimuttu.co/tags/English/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <loc>http://kelimuttu.co/tags/Bahasa-Indonesia/</loc>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/tags/Bahasa-Indonesia/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <loc>http://kelimuttu.co/tags/English/</loc>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/tags/Travel/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/tags/Poetry/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/tags/Be-a-better-self/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/tags/Personal/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -2944,134 +2953,134 @@
 
   
   <url>
-    <loc>http://kelimuttu.co/categories/Year-in-review/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <loc>http://kelimuttu.co/categories/2015/</loc>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/categories/2015/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <loc>http://kelimuttu.co/categories/Year-in-review/</loc>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/Jar-of-thoughts/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/2017/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/Travel/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/Events/</loc>
-    <lastmod>2023-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/categories/Mozilla/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/Review/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/categories/Mozilla/</loc>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/Music/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/Sharing-Session/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/2018/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/Poetry/</loc>
-    <lastmod>2023-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelimuttu.co/categories/Minimalism/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/2014/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/categories/Minimalism/</loc>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/2016/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/Be-a-better-self/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/Tips-and-Trick/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/Personal/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kelimuttu.co/categories/Tea-Talk/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
