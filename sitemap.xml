@@ -4,7 +4,7 @@
   <url>
     <loc>http://kelimuttu.co/japan-2024/</loc>
     
-    <lastmod>2024-04-19</lastmod>
+    <lastmod>2024-04-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2909,14 +2909,14 @@
 
   
   <url>
-    <loc>http://kelimuttu.co/tags/Bahasa-Indonesia/</loc>
+    <loc>http://kelimuttu.co/tags/English/</loc>
     <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/tags/English/</loc>
+    <loc>http://kelimuttu.co/tags/Bahasa-Indonesia/</loc>
     <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2953,14 +2953,14 @@
 
   
   <url>
-    <loc>http://kelimuttu.co/categories/2015/</loc>
+    <loc>http://kelimuttu.co/categories/Year-in-review/</loc>
     <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/categories/Year-in-review/</loc>
+    <loc>http://kelimuttu.co/categories/2015/</loc>
     <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2995,13 +2995,6 @@
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/categories/Review/</loc>
-    <lastmod>2024-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://kelimuttu.co/categories/Mozilla/</loc>
     <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -3010,6 +3003,13 @@
   
   <url>
     <loc>http://kelimuttu.co/categories/Music/</loc>
+    <lastmod>2024-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/categories/Review/</loc>
     <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3037,14 +3037,14 @@
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/categories/2014/</loc>
+    <loc>http://kelimuttu.co/categories/Minimalism/</loc>
     <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/categories/Minimalism/</loc>
+    <loc>http://kelimuttu.co/categories/2014/</loc>
     <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
