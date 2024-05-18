@@ -3004,13 +3004,6 @@
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/categories/Mozilla/</loc>
-    <lastmod>2024-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://kelimuttu.co/categories/Review/</loc>
     <lastmod>2024-05-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -3018,7 +3011,7 @@
   </url>
   
   <url>
-    <loc>http://kelimuttu.co/categories/Music/</loc>
+    <loc>http://kelimuttu.co/categories/Mozilla/</loc>
     <lastmod>2024-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3033,6 +3026,13 @@
   
   <url>
     <loc>http://kelimuttu.co/categories/2018/</loc>
+    <lastmod>2024-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kelimuttu.co/categories/Music/</loc>
     <lastmod>2024-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
